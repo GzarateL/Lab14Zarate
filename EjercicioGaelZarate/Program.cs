@@ -62,11 +62,11 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 var app = builder.Build();
 
 // --- 5. Configurar el Pipeline de HTTP ---
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 // --- 6. Añadir el Middleware de Errores ---
 app.UseMiddleware<ErrorHandlingMiddleware>();
