@@ -1,0 +1,15 @@
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\bin\Debug\net9.0\EjercicioGaelZarate.Application.deps.json
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\bin\Debug\net9.0\EjercicioGaelZarate.Application.dll
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\bin\Debug\net9.0\EjercicioGaelZarate.Application.pdb
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\bin\Debug\net9.0\EjercicioGaelZarate.Domain.dll
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\bin\Debug\net9.0\EjercicioGaelZarate.Domain.pdb
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\EjercicioGaelZarate.Application.csproj.AssemblyReference.cache
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\EjercicioGaelZarate.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\EjercicioGaelZarate.Application.AssemblyInfoInputs.cache
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\EjercicioGaelZarate.Application.AssemblyInfo.cs
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\EjercicioGaelZarate.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\Ejercici.E81085D4.Up2Date
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\EjercicioGaelZarate.Application.dll
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\refint\EjercicioGaelZarate.Application.dll
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\EjercicioGaelZarate.Application.pdb
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Application\obj\Debug\net9.0\ref\EjercicioGaelZarate.Application.dll

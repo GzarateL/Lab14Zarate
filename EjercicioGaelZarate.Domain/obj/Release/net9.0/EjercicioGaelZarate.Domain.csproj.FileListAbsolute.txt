@@ -1,0 +1,11 @@
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\bin\Release\net9.0\EjercicioGaelZarate.Domain.deps.json
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\bin\Release\net9.0\EjercicioGaelZarate.Domain.dll
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\bin\Release\net9.0\EjercicioGaelZarate.Domain.pdb
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\obj\Release\net9.0\EjercicioGaelZarate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\obj\Release\net9.0\EjercicioGaelZarate.Domain.AssemblyInfoInputs.cache
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\obj\Release\net9.0\EjercicioGaelZarate.Domain.AssemblyInfo.cs
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\obj\Release\net9.0\EjercicioGaelZarate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\obj\Release\net9.0\EjercicioGaelZarate.Domain.dll
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\obj\Release\net9.0\refint\EjercicioGaelZarate.Domain.dll
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\obj\Release\net9.0\EjercicioGaelZarate.Domain.pdb
+C:\Users\Gael Adrián\RiderProjects\EjercicioGaelZarate\EjercicioGaelZarate.Domain\obj\Release\net9.0\ref\EjercicioGaelZarate.Domain.dll
